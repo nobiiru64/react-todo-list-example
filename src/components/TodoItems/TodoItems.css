@@ -1,0 +1,22 @@
+.todoListMain__theList {
+    list-style: none;
+    padding: 0;
+}
+
+.todoListMain__theList li {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 380px;
+    text-align: left;
+    height: 50px;
+    margin-bottom: 20px;
+    padding: 25px;
+    background: #FFFFFF;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.todoListMain__theList li span {
+    text-align: right;
+}
