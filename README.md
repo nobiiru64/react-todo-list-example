@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react todo-list
+
+![react-todo-list](example.png)
 
 ## Available Scripts
 
